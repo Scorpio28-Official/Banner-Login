@@ -13,7 +13,7 @@ amarillo="\e[1;33m"
 blanco="\e[1;37m"
 # CÓDIGO
 Scorpio28(){
-	time.sleep 0.5
+	sleep 0.5
 	clear
 echo -e "${negro}"
 echo -e "${negro}╔══════════════════════════════════════════════════════╗${verde}"
