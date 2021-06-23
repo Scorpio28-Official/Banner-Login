@@ -17,6 +17,8 @@ __INSTALACION__
 
 * pkg install git -y
 
+* pkg install pv -y
+
 * git clone https://github.com/Scorpio28-Official/Banner-Login
 
 * cd Banner-Login
