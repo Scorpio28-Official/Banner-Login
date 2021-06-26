@@ -14,7 +14,6 @@ __CIERREN Y VUELVAN ABRIR LA TERMINAL__:
 ## INSTALACION
 
 ```
-
 * apt update && apt upgrade -y
 
 * pkg install git -y
@@ -34,7 +33,6 @@ __CIERREN Y VUELVAN ABRIR LA TERMINAL__:
 (Aqui pide un usuario ingresen el que deseen no lo olviden ya que con ese ingresaran a la terminal):
 
 * bash login.sh
-
 ```
 
 (By: Scorpio28)
