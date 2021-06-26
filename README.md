@@ -33,4 +33,9 @@ __(Aqui pide un usuario ingresen el que deseen no lo olviden ya que con ese ingr
 
 * bash login.sh
 
-# By: Scorpio28
+__By: Scorpio28__
+
+## Captura de pantalla
+<p align="center">
+	<img src="https://imgur.com/gallery/zhkVNUU" width="600px">
+</p>
