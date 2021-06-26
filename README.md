@@ -1,6 +1,3 @@
-<p align="center">
-	<img src="https://imgur.com/gallery/zhkVNUU" width="600px">
-</p>
 ## Banner-Login
 Es una herramienta creada en bash, cuya función es un login para poder acceder a la terminal mediante un nombre de usuario (clave de acceso) y evitar acceso de intrusos.
 
@@ -42,5 +39,5 @@ __CIERREN Y VUELVAN ABRIR LA TERMINAL__:
 
 ## Captura de pantalla
 <p align="center">
-	<img src="https://imgur.com/gallery/zhkVNUU" width="600px">
+	<img src="https://imgur.com/gallery/8VL5MDa" width="600px">
 </p>
