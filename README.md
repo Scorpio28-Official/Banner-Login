@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://imgur.com/gallery/zhkVNUU" width="600px">
+	<img src="https://imgur.com/gallery/zhkVNUU" width="650px">
 </p>
 
 ## Banner-Login
