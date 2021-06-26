@@ -35,7 +35,9 @@ __(Aqui pide un usuario ingresen el que deseen no lo olviden ya que con ese ingr
 
 * bash login.sh
 
-__By: Scorpio28__
+```
+
+(By: Scorpio28)
 
 ## Captura de pantalla
 <p align="center">
